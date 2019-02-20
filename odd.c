@@ -6,6 +6,6 @@ void main()
 	for(i=N;i<Q;i=i+2)
 	{
 		if(i!=N)
-		printf("%d",i);
+		printf("%d\t",i);
 	}
 }
