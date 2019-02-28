@@ -4,8 +4,8 @@ char str[100];
 int n,i;
 void main()
 {
-	scanf("%d",&n);
 	scanf("%s",&str);
+	scanf("%d",&n);
 	for(i=0;i<n;i++)
 	{
 		printf("%s\n",str);
